@@ -5,7 +5,7 @@
 This is a sample PHP application for the re:Invent Application
 Lifecycle Management bootcamp.
 
-## Security
+## Security is great
 
 Add the following to httpd.conf:
 
